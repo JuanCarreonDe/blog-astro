@@ -1,4 +1,4 @@
 export const siteConfig = {
-  title: "Fernando's Blog",
-  description: 'Blog oficial de Fernando Herrera - Web developer',
+  title: "juan's Blog",
+  description: "Blog oficial de juan Herrera - Web developer",
 };
